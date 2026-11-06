@@ -1,5 +1,7 @@
 # Xtreme Dr. X — assistente de instalação com IA
 
+![Logo do Xtreme Dr. X](assets/xtreme-dr-x-logo.jpg)
+
 Aplicação web para apoiar a instalação e o diagnóstico do **Quickshifter Xtreme**, com perguntas em linguagem natural e análise de fotos e vídeos.
 
 **[Abrir a aplicação publicada](https://studio--studio-6575887507-cfd43.us-central1.hosted.app/)** · [Conhecer meus outros projetos](https://github.com/sandrocabelleira1)
